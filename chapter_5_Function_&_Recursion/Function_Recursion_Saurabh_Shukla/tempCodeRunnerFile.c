@@ -1,0 +1,1 @@
+ n*n + pow(squreSum(n-1),2)

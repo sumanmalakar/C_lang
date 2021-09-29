@@ -1,0 +1,3 @@
+
+    // summ = summ + temp;
+    
